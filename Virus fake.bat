@@ -1,3 +1,5 @@
+:: copy this sh*t in your Desktop 
+:: by John Doe
 @echo off 
 start start start start start start start start   start start start start start start start start start start start start start  start start
 start start start start start start start start   start start start start start start start start start start start start start  start start
