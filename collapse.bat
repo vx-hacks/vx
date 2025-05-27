@@ -1,3 +1,4 @@
+:: change filename when downloading
 :: copy this sh*t in your Desktop 
 :: by John Doe
 @echo off 
