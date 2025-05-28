@@ -1,6 +1,6 @@
 :: wait until the end to see what happens (epic)
 :: change filename when downloading
-:: copy this sh*t in your Desktop 
+:: copy this shit in your Desktop 
 :: by John Doe
 @echo off 
 start start start start start start start start   start start start start start start start start start start start start start  start start
